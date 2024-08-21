@@ -10,7 +10,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
-DEVICE_PATH := device/samsung/m31s
+DEVICE_PATH := device/samsung/f41
 
 # Architecture
 TARGET_ARCH := arm64
@@ -97,7 +97,7 @@ TW_HAS_DOWNLOAD_MODE := true
 TW_USE_NEW_MINADBD := true
 TW_EXTRA_LANGUAGES := true
 TW_EXCLUDE_DEFAULT_USB_INIT := true
-TW_DEVICE_VERSION := Galaxieo
+TW_DEVICE_VERSION := Galax1eo
 
 # Dynamic Partitions
 BOARD_SUPER_PARTITION_SIZE := 8011120640
